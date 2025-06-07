@@ -1,19 +1,21 @@
 # app-rewrite-analysis
+This will be a brief version of the article I plan to write in medium
+- Move charts/html to their own folder for conainement - "charts"
+- Then create and store an excel file that has all the data and charts
+- Then create a new chart asset based on the spreadsheet that I can deploy as html
+- Write this basic article
+
+
+When to rewrite
+- Cost of legacy development
+- Hard choice
+- Here is some data to help
+- There are many other factors, but this can help you with part of the mental model
+
 A simple model on the impacts of tech debt and software rewrite
 
-https://htmlpreview.github.io/?https://github.com/danjamk/app-rewrite-analysis/feature_cost_curve.html
-
-
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/danjamk/app-rewrite-analysis/main/feature_cost_curve.html
-
-https://github.com/danjamk/app-rewrite-analysis/feature_cost_curve.html
-
-feature_cost_curve.html
-
-https://danjamk.github.io/app-rewrite-analysis/feature_cost_curve.html
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>   
+
+https://danjamk.github.io/app-rewrite-analysis/charts/feature_cost_curve.html
