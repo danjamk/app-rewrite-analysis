@@ -18,4 +18,4 @@ A simple model on the impacts of tech debt and software rewrite
 
 
 
-https://danjamk.github.io/app-rewrite-analysis/docs/feature_cost_curve.html
+https://danjamk.github.io/app-rewrite-analysis/feature_cost_curve.html
