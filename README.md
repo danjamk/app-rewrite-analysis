@@ -11,6 +11,8 @@ Note, there are MANY intertwined factors that should influence your decision, an
 Its accuracy is limited, but the mental model and the thought process that goes into applying it to your
 situation can be very valuable in the process.
 
+The Excell based model is here: [Rebuild-analysis-model.xlsx](Rebuild-analysis-model.xlsx)
+
 Please comment or provide feedback if you use it.  
 
 ### Development Velocity comparison for a rewrite
