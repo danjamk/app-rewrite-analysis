@@ -43,12 +43,12 @@ Here are more key factors to consider when deciding between rewriting vs. refact
 - **Incremental refactoring** - Can you improve the codebase piece by piece rather than all at once?
 - **Domain boundaries** - Are there clear modules that could be rewritten independently?
 
-What's the current pain point that's driving this decision for your application?
-
 Here are two thoughtful and somewhat contrasting views on the topic to help you think more as well.
 - [Modernizing Legacy Code: Refactor, Rearchitect, or Rewrite?](https://vfunction.com/blog/modernizing-legacy-code-refactor-rearchitect-or-rewrite/)
 - [Code Rewriting: When and Why](https://waverleysoftware.com/blog/code-rewriting-when-and-why/)
 
+This article is not directly related to this topic, but I feel it is core to the underlying topic with some great data.  
+[Developer Velocity: How software excellence fuels business performance](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-velocity-how-software-excellence-fuels-business-performance)
 
 
 ## References on for the model
@@ -57,7 +57,7 @@ Here are two thoughtful and somewhat contrasting views on the topic to help you 
    URL: https://www.tiny.cloud/technical-debt-whitepaper/  
    *Discusses the magnitude of technical debt issues, citing Microsoft's 2017 study showing 58% of developer time spent on code comprehension, and McKinsey's finding that 30% of CIOs believe more than 20% of technical budget is diverted to tech debt resolution.*
 
-3. **CodeScene: The Business Costs of Technical Debt** (PDF)  
+2**CodeScene: The Business Costs of Technical Debt** (PDF)  
    URL: https://codescene.com/hubfs/calculate-business-costs-of-technical-debt.pdf  
    *Provides metrics linking code quality to business impact and automated code review methodologies.*
 
