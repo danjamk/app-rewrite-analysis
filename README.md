@@ -57,7 +57,7 @@ This article is not directly related to this topic, but I feel it is core to the
    URL: https://www.tiny.cloud/technical-debt-whitepaper/  
    *Discusses the magnitude of technical debt issues, citing Microsoft's 2017 study showing 58% of developer time spent on code comprehension, and McKinsey's finding that 30% of CIOs believe more than 20% of technical budget is diverted to tech debt resolution.*
 
-2**CodeScene: The Business Costs of Technical Debt** (PDF)  
+2. **CodeScene: The Business Costs of Technical Debt** (PDF)  
    URL: https://codescene.com/hubfs/calculate-business-costs-of-technical-debt.pdf  
    *Provides metrics linking code quality to business impact and automated code review methodologies.*
 
