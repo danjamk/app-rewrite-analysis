@@ -11,6 +11,9 @@ Note, there are MANY intertwined factors that should influence your decision, an
 I provided some additional food for thought below.
 Regarding this model's accuracy: It is limited.  I find the power in a model is not its accuracy or answer, but what the creation process does in understanding the issue and the sensitivity of various factors.
 
+The final note: AI tools are **RADICALLY changing** the velocity curve of development.  The model has a place to input an estimate
+but my example does not represent the magnitude of this potential. 
+
 The Excell based model is here: [Rebuild-analysis-model.xlsx](Rebuild-analysis-model.xlsx)
 
 ### Development Velocity comparison for a rewrite
